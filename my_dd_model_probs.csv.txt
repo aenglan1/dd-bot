@@ -1,0 +1,3 @@
+player,model_p
+Nikola Jokic,0.62
+Domantas Sabonis,0.58
